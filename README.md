@@ -1,6 +1,6 @@
-# blog
+# monsteroo blog
 
-使用github issues 来记录博客，原因就是很方便
+这个博客用来记录一些常用的开发技术、文章和资源，不定期更新欢迎关注
 
 ### react
 * [React Render Props 模式](https://github.com/monsterooo/blog/issues/17)
@@ -12,3 +12,5 @@
 ### 其他
 * [记录一些开发常用网站](https://github.com/monsterooo/blog/issues/3)
 * 其他文章请查看issues
+
+![background](https://user-images.githubusercontent.com/18432680/38684012-4f6d0790-3ea1-11e8-90ae-adbdf8500c86.jpg)
