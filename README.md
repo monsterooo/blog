@@ -3,6 +3,7 @@
 这个博客用来记录一些常用的开发技术、文章和资源，不定期更新欢迎关注
 
 ### react
+* [React Hooks 实用指南](https://github.com/monsterooo/blog/issues/28)
 * [React Render Props 模式](https://github.com/monsterooo/blog/issues/17)
 * [recompose api 指南](https://github.com/monsterooo/blog/issues?utf8=%E2%9C%93&q=recompose)
 * [React createFactory 介绍](https://github.com/monsterooo/blog/issues/6)
