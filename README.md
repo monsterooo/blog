@@ -15,3 +15,12 @@
 * 其他文章请查看issues
 
 ![background](https://user-images.githubusercontent.com/18432680/38684012-4f6d0790-3ea1-11e8-90ae-adbdf8500c86.jpg)
+
+### 工具
+
+* ![Mac 自动排列窗口](https://www.spectacleapp.com/)
+
+
+
+
+
